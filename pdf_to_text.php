@@ -16,7 +16,6 @@ $textContent = $pdf->getText();
 echo $textContent;
 */
 
-
 $pdfText = ''; 
 if(isset($_POST['submit'])){ 
     // If file is selected 
